@@ -17,7 +17,7 @@ The dataset is sourced from "weather_play_prediction.csv".
 Run the `weather_play_prediction.py` file to execute the project.
 
 ## Dependencies
--pandas
+- pandas
 - numpy
 - scikit-learn
 
